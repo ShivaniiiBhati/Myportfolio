@@ -388,7 +388,7 @@ function HeroSection() {
               View My Work
             </button>
             <a
-              href="/api/resume"
+              href="/data/Shivani_Resume.pdf"
               download="Shivani_Resume.pdf"
               className="flex items-center gap-2 px-8 py-3.5 rounded-xl font-semibold text-violet-300 border border-violet-500/40 hover:bg-violet-500/10 hover:border-violet-400 transition-all duration-300 hover:-translate-y-0.5"
             >
