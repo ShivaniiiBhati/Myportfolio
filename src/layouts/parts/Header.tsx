@@ -58,8 +58,8 @@ export default function Header() {
           {/* Resume Download */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="/data/Shivani_resume (1).pdf"
-              download="Shivani_Kumari_Resume.pdf"
+              href="/data/Shivani_Resume.pdf"
+              download="Shivani_Resume.pdf"
               className="flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-lg border border-violet-500/50 text-violet-300 hover:bg-violet-500/10 hover:border-violet-400 transition-all duration-200"
             >
               <Download size={14} />
